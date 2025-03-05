@@ -18,10 +18,7 @@
          * ToolSet (Investing Lib for DFP)
          */
         (()=>{
-            let lcl = console.log,
-                defineSlot = ({ defineSlot, sizes, adSlotDivID, middleDefinition, collapseDiv }, slotHolder) => {
-                    if (!slotHolder.slots) {
-                        slotHolder.slots = {};
+          
                     }
                     if (collapseDiv && slot) {
                         slot.setCollapseEmptyDiv(...collapseDiv);
