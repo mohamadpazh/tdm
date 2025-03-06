@@ -19,7 +19,7 @@
          */
         (()=>{
           
-                    }
+                  }
                     if (collapseDiv && slot) {
                         slot.setCollapseEmptyDiv(...collapseDiv);
                     }
