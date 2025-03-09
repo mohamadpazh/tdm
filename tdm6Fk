@@ -21,11 +21,7 @@
 	<link rel="dns-prefetch" href="//c.amazon-adsystem.com" />
         <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
     	    <script>
-        // Load ToolSet hardcoded instead of from file
-        /**
-         * ToolSet (Investing Lib for DFP)
-         */
-        (()=>{
+      
                   }
                     if (collapseDiv && slot) {
                         slot.setCollapseEmptyDiv(...collapseDiv);
